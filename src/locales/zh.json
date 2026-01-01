@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "首页",
+    "track": "跟踪",
+    "services": "服务",
+    "locations": "地点",
+    "support": "支持",
+    "login": "登录",
+    "shipNow": "立即发货",
+    "admin": "管理员",
+    "adminPortal": "管理员门户",
+    "logout": "登出"
+  },
+  "common": {
+    "language": "语言",
+    "english": "English",
+    "korean": "한국어",
+    "chinese": "中文"
+  },
+  "home": {
+    "hero": {
+      "badge": "快速、可靠的运输解决方案",
+      "title": "发货更快。跟踪更智能。",
+      "description": "从取货到交付，我们提供端到端物流解决方案，包括实时跟踪、全国覆盖和保证的交付时间。",
+      "shipNow": "立即发货",
+      "learnMore": "了解更多"
+    },
+    "stats": {
+      "packages": "已交付包裹",
+      "locations": "服务地点",
+      "onTime": "准时交付",
+      "support": "客户支持"
+    },
+    "features": {
+      "title": "为什么选择 SwiftShip？",
+      "description": "我们将尖端技术和可靠的物流网络相结合，提供卓越的运输体验。",
+      "realTimeTracking": {
+        "title": "实时跟踪",
+        "description": "通过实时 GPS 跟踪和即时状态更新，每一步都跟随您的包裹。"
+      },
+      "expressDelivery": {
+        "title": "快递交付",
+        "description": "为紧急货物提供当日和次日交付选项。"
+      },
+      "secureHandling": {
+        "title": "安全处理",
+        "description": "为所有包裹类型和价值提供全面保险覆盖和精心处理。"
+      },
+      "nationwideCoverage": {
+        "title": "全国覆盖",
+        "description": "广泛的枢纽和交付伙伴网络，覆盖全国每个角落。"
+      },
+      "instantNotifications": {
+        "title": "即时通知",
+        "description": "取货、运输和交付里程碑的电子邮件、SMS 和 WhatsApp 警报。"
+      },
+      "proofOfDelivery": {
+        "title": "交付证明",
+        "description": "确认交付的数字签名、照片和 OTP 验证。"
+      }
+    },
+    "cta": {
+      "title": "准备开始发货了吗？",
+      "description": "几分钟内创建您的第一个货物。获取即时报价、打印标签，并在同一地点安排取货。",
+      "noHiddenFees": "无隐藏费用",
+      "freeTracking": "免费跟踪",
+      "insuranceIncluded": "包含保险",
+      "getStarted": "开始使用",
+      "contactSales": "联系销售"
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "为企业和个人提供快速、可靠的运输解决方案。通过我们的先进物流网络实时跟踪您的包裹。"
+    },
+    "quickLinks": {
+      "title": "快速链接",
+      "trackShipment": "跟踪货物",
+      "shipNow": "立即发货",
+      "ourServices": "我们的服务",
+      "locations": "地点"
+    },
+    "support": {
+      "title": "支持",
+      "helpCenter": "帮助中心",
+      "faqs": "常见问题",
+      "termsOfService": "服务条款",
+      "privacyPolicy": "隐私政策"
+    },
+    "contact": {
+      "title": "联系我们",
+      "address": "中国北京上海路456号，100000"
+    },
+    "copyright": "© {year} SwiftShip。保留所有权利。",
+    "links": {
+      "terms": "条款",
+      "privacy": "隐私",
+      "cookies": "Cookie"
+    }
+  }
+}

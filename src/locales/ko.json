@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "홈",
+    "track": "추적",
+    "services": "서비스",
+    "locations": "위치",
+    "support": "지원",
+    "login": "로그인",
+    "shipNow": "배송하기",
+    "admin": "관리자",
+    "adminPortal": "관리자 포털",
+    "logout": "로그아웃"
+  },
+  "common": {
+    "language": "언어",
+    "english": "English",
+    "korean": "한국어",
+    "chinese": "中文"
+  },
+  "home": {
+    "hero": {
+      "badge": "빠르고 신뢰할 수 있는 배송 솔루션",
+      "title": "더 빨리 배송하세요. 더 스마트하게 추적하세요.",
+      "description": "픽업부터 배송까지, 실시간 추적, 전국 커버리지, 보장된 배송 시간으로 엔드투엔드 물류 솔루션을 제공합니다.",
+      "shipNow": "지금 배송",
+      "learnMore": "더 알아보기"
+    },
+    "stats": {
+      "packages": "배송된 패키지",
+      "locations": "서비스 위치",
+      "onTime": "정시 배송",
+      "support": "고객 지원"
+    },
+    "features": {
+      "title": "왜 SwiftShip을 선택해야 할까요?",
+      "description": "최첨단 기술과 신뢰할 수 있는 물류 네트워크를 결합하여 탁월한 배송 경험을 제공합니다.",
+      "realTimeTracking": {
+        "title": "실시간 추적",
+        "description": "라이브 GPS 추적과 즉각적인 상태 업데이트로 패키지를 단계별로 따라가세요."
+      },
+      "expressDelivery": {
+        "title": "급행 배송",
+        "description": "긴급 배송을 위한 당일 및 익일 배송 옵션."
+      },
+      "secureHandling": {
+        "title": "안전한 취급",
+        "description": "모든 패키지 유형과 가치에 대한 완전한 보험 커버리지와 세심한 취급."
+      },
+      "nationwideCoverage": {
+        "title": "전국 커버리지",
+        "description": "전국의 모든 구석에 도달하는 광범위한 허브 및 배송 파트너 네트워크."
+      },
+      "instantNotifications": {
+        "title": "즉각적인 알림",
+        "description": "픽업, 운송, 배송 이정표에 대한 이메일, SMS, WhatsApp 알림."
+      },
+      "proofOfDelivery": {
+        "title": "배송 증명",
+        "description": "확인된 배송을 위한 디지털 서명, 사진, OTP 검증."
+      }
+    },
+    "cta": {
+      "title": "배송을 시작할 준비가 되셨나요?",
+      "description": "몇 분 안에 첫 배송을 생성하세요. 한 곳에서 즉각적인 견적, 라벨 인쇄, 픽업 일정을 잡으세요.",
+      "noHiddenFees": "숨겨진 수수료 없음",
+      "freeTracking": "무료 추적",
+      "insuranceIncluded": "보험 포함",
+      "getStarted": "시작하기",
+      "contactSales": "영업팀 연락"
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "기업과 개인을 위한 빠르고 신뢰할 수 있는 배송 솔루션. 고급 물류 네트워크로 패키지를 실시간으로 추적하세요."
+    },
+    "quickLinks": {
+      "title": "빠른 링크",
+      "trackShipment": "배송 추적",
+      "shipNow": "지금 배송",
+      "ourServices": "우리의 서비스",
+      "locations": "위치"
+    },
+    "support": {
+      "title": "지원",
+      "helpCenter": "도움 센터",
+      "faqs": "자주 묻는 질문",
+      "termsOfService": "서비스 약관",
+      "privacyPolicy": "개인정보 보호 정책"
+    },
+    "contact": {
+      "title": "문의하기",
+      "address": "중국 베이징 상하이 로드 456, 100000"
+    },
+    "copyright": "© {year} SwiftShip. 모든 권리 보유.",
+    "links": {
+      "terms": "약관",
+      "privacy": "개인정보",
+      "cookies": "쿠키"
+    }
+  }
+}

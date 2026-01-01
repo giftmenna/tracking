@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "track": "Track",
+    "services": "Services",
+    "locations": "Locations",
+    "support": "Support",
+    "login": "Login",
+    "shipNow": "Ship Now",
+    "admin": "Admin",
+    "adminPortal": "Admin Portal",
+    "logout": "Logout"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "shipments": "Shipments",
+    "drivers": "Drivers",
+    "customers": "Customers",
+    "branches": "Branches",
+    "reports": "Reports",
+    "settings": "Settings",
+    "exitAdmin": "Exit Admin"
+  },
+  "common": {
+    "language": "Language",
+    "english": "English",
+    "korean": "한국어",
+    "chinese": "中文"
+  },
+  "home": {
+    "hero": {
+      "badge": "Fast, Reliable Shipping Solutions",
+      "title": "Ship Faster. Track Smarter.",
+      "description": "From pickup to delivery, we provide end-to-end logistics solutions with real-time tracking, nationwide coverage, and guaranteed delivery times.",
+      "shipNow": "Ship Now",
+      "learnMore": "Learn More"
+    },
+    "stats": {
+      "packages": "Packages Delivered",
+      "locations": "Service Locations",
+      "onTime": "On-Time Delivery",
+      "support": "Customer Support"
+    },
+    "features": {
+      "title": "Why Choose SwiftShip?",
+      "description": "We combine cutting-edge technology with a reliable logistics network to deliver exceptional shipping experiences.",
+      "realTimeTracking": {
+        "title": "Real-Time Tracking",
+        "description": "Follow your package every step of the way with live GPS tracking and instant status updates."
+      },
+      "expressDelivery": {
+        "title": "Express Delivery",
+        "description": "Same-day and next-day delivery options for urgent shipments across our network."
+      },
+      "secureHandling": {
+        "title": "Secure Handling",
+        "description": "Full insurance coverage and careful handling for all package types and values."
+      },
+      "nationwideCoverage": {
+        "title": "Nationwide Coverage",
+        "description": "Extensive network of hubs and delivery partners reaching every corner of the country."
+      },
+      "instantNotifications": {
+        "title": "Instant Notifications",
+        "description": "Email, SMS, and WhatsApp alerts for pickup, transit, and delivery milestones."
+      },
+      "proofOfDelivery": {
+        "title": "Proof of Delivery",
+        "description": "Digital signatures, photos, and OTP verification for confirmed deliveries."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Shipping?",
+      "description": "Create your first shipment in minutes. Get instant quotes, print labels, and schedule pickups all in one place.",
+      "noHiddenFees": "No hidden fees",
+      "freeTracking": "Free tracking",
+      "insuranceIncluded": "Insurance included",
+      "getStarted": "Get Started",
+      "contactSales": "Contact Sales"
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "Fast, reliable shipping solutions for businesses and individuals. Track your packages in real-time with our advanced logistics network."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "trackShipment": "Track Shipment",
+      "shipNow": "Ship Now",
+      "ourServices": "Our Services",
+      "locations": "Locations"
+    },
+    "support": {
+      "title": "Support",
+      "helpCenter": "Help Center",
+      "faqs": "FAQs",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "456 Shanghai Road, Beijing, China 100000"
+    },
+    "copyright": "© {year} SwiftShip. All rights reserved.",
+    "links": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookies": "Cookies"
+    }
+  }
+}
